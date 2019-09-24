@@ -1,0 +1,52 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "200",
+      "nombrePlatillo": "Cheesecake",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "ensalada",
+      "precioPlatillo": "500",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "precioPlatillo": "700",
+      "nombrePlatillo": "pato a las brasas",
+      "categoria": "cortes",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "vacio",
+      "precioPlatillo": "400",
+      "categoria": "cortes",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "pollo",
+      "precioPlatillo": "400",
+      "categoria": "cortes",
+      "id": 7
+    },
+    {
+      "nombrePlatillo": "pejerrey",
+      "precioPlatillo": "150",
+      "categoria": "cortes",
+      "id": 8
+    },
+    {
+      "nombrePlatillo": "salmon",
+      "precioPlatillo": "50",
+      "categoria": "cortes",
+      "id": 9
+    }
+  ]
+}
