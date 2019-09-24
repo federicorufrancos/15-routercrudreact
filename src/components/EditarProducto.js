@@ -14,7 +14,7 @@ function EditarProducto({producto, guardarRecargarProductos, history}) {
     const [ categoria, guardarCategoria ] = useState('');
     const [ error, guardarError ] = useState(false);
     
-    const editarProducto = e => {
+    const editarProducto = async e => {
         e.preventDefault();
 
         //validation
